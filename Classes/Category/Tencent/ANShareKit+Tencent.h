@@ -7,8 +7,8 @@
 //
 
 #import "ANShareKit.h"
-#import "TencentOAuth.h"
-#import "QQApiInterface.h"
+#import "TencentOpenApiSDK/TencentOpenAPI/TencentOAuth.h"
+#import "TencentOpenApiSDK/TencentOpenAPI/QQApiInterface.h"
 
 @interface ANShareKit (Tencent)
 
