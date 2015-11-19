@@ -5,7 +5,6 @@ xcodeproj './ANShareKitDemo/ANShareKitDemo.xcodeproj'
 
 target 'ANShareKitDemo' do
 
-pod 'WeixinSDK',            '~>1.4.3'
 pod 'Weibo',                '~>2.4.2'
 pod 'TencentOpenApiSDK',    '~> 2.9.0'
 pod 'Masonry',              '~> 0.5.3'
